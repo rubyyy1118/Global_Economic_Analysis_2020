@@ -29,7 +29,7 @@ To run the Python notebook (`A_code.ipynb`), make sure you have Python installed
    ```bash
    pip install pandas matplotlib seaborn numpy scipy statsmodels
    ```
-2. Open the `A_hgwc71.ipynb` notebook in Jupyter and run the cells sequentially to generate the outputs. Alternatively, the Python file can be run directly if preferred.
+2. Open the `A_code.ipynb` notebook in Jupyter and run the cells sequentially to generate the outputs. Alternatively, the Python file can be run directly if preferred.
 
 ### Expected Outputs:
 - Descriptive statistics and visualizations for life expectancy across countries and continents.
