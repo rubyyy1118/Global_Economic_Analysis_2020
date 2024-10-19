@@ -62,4 +62,4 @@ This analysis provides insights into how various economic factors influence life
 
 ## 6. License
 
-This project is for academic purposes only as part of the COMP41915 Data Analytics in Action module.
+This project is for academic purposes only as part of the Data Analytics in Action module.
